@@ -1,0 +1,24 @@
+{
+  "name": "webgl-normal_mapping",
+  "version": "1.0.0",
+  "description": "Normal Mapping",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w",
+    "dev": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CGVLab",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.6",
+    "gl-matrix": "^3.1.0",
+    "stats-js": "^1.0.1"
+  }
+}
