@@ -8,5 +8,13 @@ dependencies
 devServer
 * Go to http://localhost:9000/
 
+## Techniques
+* Render model & Texture
+* Skybox
+* Normal mapping + Phong lighting
+* Shadow Mapping
+* SSAO
+* Switch of every rendering technique
+
 ## Control
 w/a/s/d/z/x : walk, up/down
