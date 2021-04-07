@@ -9,6 +9,7 @@ devServer
 * Go to http://localhost:9000/
 
 ## Techniques
+* Terrain gneration
 * Render model & Texture
 * Skybox
 * Normal mapping + Phong lighting
